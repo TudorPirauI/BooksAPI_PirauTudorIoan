@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Tema1.Api.Controllers.AuthorsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Authors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
