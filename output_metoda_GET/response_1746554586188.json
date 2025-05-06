@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "George Orwell",
+    "books": [
+      {
+        "id": 1,
+        "title": "1984"
+      },
+      {
+        "id": 2,
+        "title": "Animal Farm"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "J.K. Rowling",
+    "books": [
+      {
+        "id": 3,
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "id": 4,
+        "title": "Harry Potter and the Chamber of Secrets"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "J.R.R. Tolkien",
+    "books": [
+      {
+        "id": 5,
+        "title": "The Hobbit"
+      },
+      {
+        "id": 6,
+        "title": "The Lord of the Rings"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Stephen King",
+    "books": [
+      {
+        "id": 7,
+        "title": "The Shining"
+      },
+      {
+        "id": 8,
+        "title": "It"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Agatha Christie",
+    "books": [
+      {
+        "id": 9,
+        "title": "Murder on the Orient Express"
+      },
+      {
+        "id": 10,
+        "title": "And Then There Were None"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dan Brown",
+    "books": [
+      {
+        "id": 11,
+        "title": "The Da Vinci Code"
+      },
+      {
+        "id": 12,
+        "title": "Angels and Demons"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Mark Twain",
+    "books": [
+      {
+        "id": 13,
+        "title": "The Adventures of Tom Sawyer"
+      },
+      {
+        "id": 14,
+        "title": "Adventures of Huckleberry Finn"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Ernest Hemingway",
+    "books": [
+      {
+        "id": 15,
+        "title": "The Old Man and the Sea"
+      },
+      {
+        "id": 16,
+        "title": "A Farewell to Arms"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Jane Austen",
+    "books": [
+      {
+        "id": 17,
+        "title": "Pride and Prejudice"
+      },
+      {
+        "id": 18,
+        "title": "Emma"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Fyodor Dostoevsky",
+    "books": [
+      {
+        "id": 19,
+        "title": "Crime and Punishment"
+      },
+      {
+        "id": 20,
+        "title": "The Brothers Karamazov"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Haruki Murakami",
+    "books": [
+      {
+        "id": 21,
+        "title": "Norwegian Wood"
+      },
+      {
+        "id": 22,
+        "title": "Kafka on the Shore"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Isaac Asimov",
+    "books": [
+      {
+        "id": 23,
+        "title": "Foundation"
+      },
+      {
+        "id": 24,
+        "title": "I, Robot"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Gabriel Garcia Marquez",
+    "books": [
+      {
+        "id": 25,
+        "title": "One Hundred Years of Solitude"
+      },
+      {
+        "id": 26,
+        "title": "Love in the Time of Cholera"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Franz Kafka",
+    "books": [
+      {
+        "id": 27,
+        "title": "The Metamorphosis"
+      },
+      {
+        "id": 28,
+        "title": "The Trial"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Leo Tolstoy",
+    "books": [
+      {
+        "id": 29,
+        "title": "War and Peace"
+      },
+      {
+        "id": 30,
+        "title": "Anna Karenina"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Charles Dickens",
+    "books": [
+      {
+        "id": 31,
+        "title": "Oliver Twist"
+      },
+      {
+        "id": 32,
+        "title": "A Tale of Two Cities"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Oscar Wilde",
+    "books": [
+      {
+        "id": 33,
+        "title": "The Picture of Dorian Gray"
+      },
+      {
+        "id": 34,
+        "title": "The Canterville Ghost"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Arthur Conan Doyle",
+    "books": [
+      {
+        "id": 35,
+        "title": "Sherlock Holmes: A Study in Scarlet"
+      },
+      {
+        "id": 36,
+        "title": "The Hound of the Baskervilles"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "H.G. Wells",
+    "books": [
+      {
+        "id": 37,
+        "title": "The Time Machine"
+      },
+      {
+        "id": 38,
+        "title": "The War of the Worlds"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Victor Hugo",
+    "books": [
+      {
+        "id": 39,
+        "title": "Les Misérables"
+      },
+      {
+        "id": 40,
+        "title": "The Hunchback of Notre-Dame"
+      }
+    ]
+  }
+]
