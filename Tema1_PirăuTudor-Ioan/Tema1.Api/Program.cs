@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Tema1.Api.Middleware;
 using Tema1.Api.Services;
 using Tema1.Database;
 using Tema1.Database.Repositories;
@@ -20,6 +21,7 @@ var app = builder.Build();
 app.UseSwagger();
 app.UseSwaggerUI();
 app.UseHttpsRedirection();
+app.UseMiddleware<ExceptionMiddleware>();
 app.UseAuthorization();
 app.MapControllers();
 app.Run();
