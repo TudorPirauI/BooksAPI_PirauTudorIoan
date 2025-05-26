@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MxUjBK0w3wI=",
+  "dgSpecHash": "2h2hxWW7KZM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tudor\\Desktop\\DAWM\\Tema1_PirăuTudor-Ioan\\Tema1.Api\\Tema1.Api.csproj",
+  "projectFilePath": "C:\\Users\\Tudor\\Desktop\\BooksAPI_PirauTudorIoan\\Tema1_PirăuTudor-Ioan\\Tema1.Api\\Tema1.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tudor\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Tudor\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
